@@ -2,7 +2,7 @@
 
 This is a very simple 2D game I'm working on while learning programming. It's a basic game where
 at the moment you can only explore one of the superior floors, controlling the main character Queen
-using the keyboard arrows and the antagonist Thief, their names will be set in future updates.
+using the keyboard arrows and the antagonist Thief using WASD, their names will be set in future updates.
 The game is entirely made with Java and I'm using a library called **JPlay** to develop it. 
 Although the library is not so well known, it's very simple for game development and helps me improve my skills.
 
