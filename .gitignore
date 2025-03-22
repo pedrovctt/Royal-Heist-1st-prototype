@@ -1,0 +1,8 @@
+# Ignore all these type of files and folders.
+.classpath
+.settings/
+.project
+*.class
+*.log
+bin/
+target/

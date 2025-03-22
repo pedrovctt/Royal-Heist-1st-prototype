@@ -1,0 +1,51 @@
+29
+src\com\resources\tiles\Scenario1\brickBlockFloor.png
+src\com\resources\tiles\Scenario1\mat.png
+src\com\resources\tiles\Scenario1\backgroundFloor.png
+04
+05
+06
+07
+src\com\resources\tiles\Scenario1\wall.png
+src\com\resources\tiles\Scenario1\column.png
+src\com\resources\tiles\Scenario1\curvedWall.png
+src\com\resources\tiles\Scenario1\bed.png
+src\com\resources\tiles\Scenario1\wallWithCurtain.png
+src\com\resources\tiles\Scenario1\wardrobe.png
+src\com\resources\tiles\Scenario1\wideWindow.png
+src\com\resources\tiles\Scenario1\closedDoor.png
+src\com\resources\tiles\Scenario1\windowCurtain.png
+src\com\resources\tiles\Scenario1\grandfatherClock.png
+src\com\resources\tiles\Scenario1\smallerWallWithCurtain.png
+src\com\resources\tiles\Scenario1\sofa.png
+src\com\resources\tiles\Scenario1\queenPainting.png
+src\com\resources\tiles\Scenario1\kingPainting.png
+src\com\resources\tiles\Scenario1\plantPot3red.png
+src\com\resources\tiles\Scenario1\plantPot4white.png
+src\com\resources\tiles\Scenario1\nightstand.png
+src\com\resources\tiles\Scenario1\sofaFront.png
+src\com\resources\tiles\Scenario1\nightstandWithStuff.png
+src\com\resources\tiles\Scenario1\roundTable.png
+src\com\resources\tiles\Scenario1\trophyHunting.png
+src\com\resources\tiles\Scenario1\window.png
+08 08 09 08 09 16 08 08 08 08 08 16 09 08 09 08 08 12 00 08 08 08 08 12 00 08
+13 00 00 08 17 00 29 00 08 29 00 00 00 08 00 08 08 00 00 08 29 00 08 00 00 08
+00 00 00 08 00 00 00 00 08 00 00 00 00 08 00 08 08 00 00 08 00 00 08 00 00 08
+00 00 00 08 00 00 08 08 08 08 08 00 00 08 00 08 08 00 00 08 08 08 08 00 00 08
+00 00 00 01 00 01 02 11 00 00 02 26 00 01 22 10 10 23 25 00 00 23 01 01 01 01
+01 01 01 01 01 01 02 00 00 00 02 00 00 01 00 10 10 00 00 00 00 00 01 01 01 01
+01 01 01 01 01 01 02 00 00 00 02 01 01 01 01 10 10 01 01 01 01 01 01 01 01 01
+01 01 01 01 01 01 02 00 00 00 02 01 01 01 01 10 10 01 01 01 01 01 01 01 01 01
+01 01 01 01 01 01 02 02 02 02 02 01 01 01 01 10 10 01 01 01 01 01 01 01 01 01
+19 00 27 00 01 01 01 01 01 01 01 01 01 01 01 10 10 01 01 01 01 01 01 01 01 01
+00 00 00 00 01 01 01 01 01 01 01 01 01 01 01 10 10 01 01 01 01 01 01 01 01 01
+00 00 01 01 01 01 01 01 01 01 01 01 01 01 01 10 10 01 01 01 01 01 01 01 01 01
+01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 10 10 01 01 01 01 01 01 01 01 01
+08 18 00 08 08 08 03 03 03 08 08 08 18 00 28 00 00 01 01 01 01 01 01 01 01 01
+08 00 00 08 20 08 03 03 03 08 21 08 00 00 00 00 00 01 01 01 01 01 01 01 01 01
+08 00 00 08 08 08 03 03 03 08 08 08 00 00 08 08 08 01 01 01 01 01 01 01 01 01
+01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01
+01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01
+01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01
+01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01
+%
