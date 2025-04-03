@@ -18,5 +18,3 @@ it directly from the repository on /lib/JPlay.jar
 1. Download the JPlay library from the link.
 2. Set up your project with JPlay in your IDE.
 3. Run the game.
-
-Updates soooon
